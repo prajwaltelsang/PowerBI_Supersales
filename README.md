@@ -1,6 +1,6 @@
 # PowerBI_Supersales
 Objective: Contribute to business success using data analysis, focusing on time series analysis for valuable insights and accurate sales forecasts
-# Insights:
+#### Insights:
 
 1. **Sales by Category**:
    - Office Supplies lead with $0.64M, followed by Technology ($0.47M) and Furniture ($0.45M).
@@ -59,5 +59,3 @@ Objective: Contribute to business success using data analysis, focusing on time 
    
 7. **Customer Feedback**:
    - Collect and analyze customer feedback to identify areas for improvement in product offerings, shipping methods, and customer service.
-
-By leveraging these insights and suggestions, the superstore can enhance its overall performance, improve customer satisfaction, and drive growth in sales and profitability.
